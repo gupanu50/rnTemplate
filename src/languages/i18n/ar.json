@@ -1,0 +1,37 @@
+{
+    "translation": {
+      "LOGIN": "تسجيل الدخول",
+      "REGISTER": "التسجيل",
+      "EMAILPLACEHOLDER": "أدخل البريد الإلكتروني",
+      "PASSWORDPLACEHOLDER": "أدخل كلمة المرور",
+      "EMAILERROR": "يرجى إدخال عنوان البريد الإلكتروني",
+      "VALIDEMAILERROR": "يرجى إدخال عنوان بريد إلكتروني صحيح",
+      "PASSWORDERROR": "يرجى إدخال كلمة المرور",
+      "VALIDPASSWORDERROR": "يرجى إدخال كلمة مرور صحيحة مثل Arsy@898",
+      "NAMEPLACEHOLDER": "أدخل الاسم",
+      "MOBILEPLACEHOLDER": "أدخل رقم الجوال",
+      "ERRORNAME": "يرجى إدخال الاسم",
+      "VALIDERRORNAME": "يرجى إدخال اسم صحيح",
+      "MOBILEERROR": "يرجى إدخال رقم الجوال",
+      "VALIDMOBILEERROR": "يرجى إدخال رقم جوال صحيح",
+      "DASHBOARD": "الصفحة الرئيسية",
+      "NAME": "الاسم",
+      "EMAIL": "البريد الإلكتروني",
+      "MOBILE": "الجوال",
+      "RTK": "بيانات من RTK",
+      "API": "API",
+      "DRAWERNAME": "جوي",
+      "ACCOUNT": "الحساب",
+      "SETTING": "الإعدادات",
+      "LOGOUT": "تسجيل الخروج",
+      "APICALL": "استدعاء API",
+      "NO": "لا",
+      "YES": "نعم",
+      "EXIT": "هل أنت متأكد من أنك تريد الخروج؟",
+      "LOGOUTMSG": "هل أنت متأكد من أنك تريد تسجيل الخروج؟",
+      "SELECTLANGUAGE": "اختر اللغة",
+      "GETTINGSTART": "البدء",
+      "SAVE": "حفظ"
+    }
+  }
+  

@@ -1,0 +1,37 @@
+{
+    "translation": {
+      "LOGIN": "Iniciar sesión",
+      "REGISTER": "Registrarse",
+      "EMAILPLACEHOLDER": "Ingrese el correo electrónico",
+      "PASSWORDPLACEHOLDER": "Ingrese la contraseña",
+      "EMAILERROR": "Por favor ingrese una dirección de correo electrónico",
+      "VALIDEMAILERROR": "Por favor ingrese una dirección de correo electrónico válida",
+      "PASSWORDERROR": "Por favor ingrese una contraseña",
+      "VALIDPASSWORDERROR": "Por favor ingrese una contraseña válida, por ejemplo Arsy@898",
+      "NAMEPLACEHOLDER": "Ingrese el nombre",
+      "MOBILEPLACEHOLDER": "Ingrese el número de teléfono",
+      "ERRORNAME": "Por favor ingrese un nombre",
+      "VALIDERRORNAME": "Por favor ingrese un nombre válido",
+      "MOBILEERROR": "Por favor ingrese un número de teléfono",
+      "VALIDMOBILEERROR": "Por favor ingrese un número de teléfono válido",
+      "DASHBOARD": "Inicio",
+      "NAME": "Nombre",
+      "EMAIL": "Correo electrónico",
+      "MOBILE": "Teléfono",
+      "RTK": "Datos de RTK",
+      "API": "API",
+      "DRAWERNAME": "Joey",
+      "ACCOUNT": "Cuenta",
+      "SETTING": "Ajuste",
+      "LOGOUT": "Cerrar sesión",
+      "APICALL": "Llamada API",
+      "NO": "No",
+      "YES": "Sí",
+      "EXIT": "¿Seguro que deseas salir?",
+      "LOGOUTMSG": "¿Seguro que deseas cerrar sesión?",
+      "SELECTLANGUAGE": "Seleccionar idioma",
+      "GETTINGSTART": "Comenzar",
+      "SAVE": "Guardar"
+    }
+  }
+  
